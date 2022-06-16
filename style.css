@@ -44,44 +44,38 @@ main>section {
     width: 80%;
     margin: 100px auto;
 }
-
+/*CSS foto alle pagina's*/
 main>section>article>img {
     width: 250px;
     height: 250px;
     float: right;
 }
-
+/*CSS titel alle pagina's*/
 h1 {
     font-size: 50px;
     font-weight: 300;
     margin-bottom: 20px;
 }
-
+/*CSS tekst alle pagina's*/
 p {
     font-size: 20px;
     font-weight: 300;
     margin-bottom: 20px;
 }
-
-.elektrischepiano{
-    width: 250px;
-    height: 250px;
-    float: right;
-}
-
+/*CSS lijsten*/
 li{
     list-style-position: inside;
     font-size: 20px;
     font-weight: 300;
     margin-bottom: 20px;
 }
-
+/*CSS tabel voor- en nadelen digitale piano*/
 .voor-_nadelen{
     font-size: 20px;
     font-weight: 300;
     margin-bottom: 20px;
 }
-
+/*CSS tabel*/
 td{
     width: 100vw;
 }
